@@ -1,0 +1,21 @@
+{
+    "name": "4theme",
+    "displayName": "4Theme",
+    "description": "A theme I made for personal use",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "4Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/4Theme-color-theme.json"
+            }
+        ]
+    }
+}
